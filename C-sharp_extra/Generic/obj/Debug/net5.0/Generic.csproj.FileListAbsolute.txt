@@ -1,0 +1,16 @@
+C:\Users\한종훈\Dropbox\프로그래밍\인프런\C-sharp_extra\C-sharp_extra\Generic\bin\Debug\net5.0\Generic.exe
+C:\Users\한종훈\Dropbox\프로그래밍\인프런\C-sharp_extra\C-sharp_extra\Generic\bin\Debug\net5.0\Generic.deps.json
+C:\Users\한종훈\Dropbox\프로그래밍\인프런\C-sharp_extra\C-sharp_extra\Generic\bin\Debug\net5.0\Generic.runtimeconfig.json
+C:\Users\한종훈\Dropbox\프로그래밍\인프런\C-sharp_extra\C-sharp_extra\Generic\bin\Debug\net5.0\Generic.runtimeconfig.dev.json
+C:\Users\한종훈\Dropbox\프로그래밍\인프런\C-sharp_extra\C-sharp_extra\Generic\bin\Debug\net5.0\Generic.dll
+C:\Users\한종훈\Dropbox\프로그래밍\인프런\C-sharp_extra\C-sharp_extra\Generic\bin\Debug\net5.0\ref\Generic.dll
+C:\Users\한종훈\Dropbox\프로그래밍\인프런\C-sharp_extra\C-sharp_extra\Generic\bin\Debug\net5.0\Generic.pdb
+C:\Users\한종훈\Dropbox\프로그래밍\인프런\C-sharp_extra\C-sharp_extra\Generic\obj\Debug\net5.0\Generic.csproj.AssemblyReference.cache
+C:\Users\한종훈\Dropbox\프로그래밍\인프런\C-sharp_extra\C-sharp_extra\Generic\obj\Debug\net5.0\Generic.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\한종훈\Dropbox\프로그래밍\인프런\C-sharp_extra\C-sharp_extra\Generic\obj\Debug\net5.0\Generic.AssemblyInfoInputs.cache
+C:\Users\한종훈\Dropbox\프로그래밍\인프런\C-sharp_extra\C-sharp_extra\Generic\obj\Debug\net5.0\Generic.AssemblyInfo.cs
+C:\Users\한종훈\Dropbox\프로그래밍\인프런\C-sharp_extra\C-sharp_extra\Generic\obj\Debug\net5.0\Generic.csproj.CoreCompileInputs.cache
+C:\Users\한종훈\Dropbox\프로그래밍\인프런\C-sharp_extra\C-sharp_extra\Generic\obj\Debug\net5.0\Generic.dll
+C:\Users\한종훈\Dropbox\프로그래밍\인프런\C-sharp_extra\C-sharp_extra\Generic\obj\Debug\net5.0\ref\Generic.dll
+C:\Users\한종훈\Dropbox\프로그래밍\인프런\C-sharp_extra\C-sharp_extra\Generic\obj\Debug\net5.0\Generic.pdb
+C:\Users\한종훈\Dropbox\프로그래밍\인프런\C-sharp_extra\C-sharp_extra\Generic\obj\Debug\net5.0\Generic.genruntimeconfig.cache
