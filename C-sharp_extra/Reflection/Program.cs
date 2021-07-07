@@ -3,6 +3,9 @@ using System.Reflection;
 
 namespace Reflection
 {
+    //유니티에서 유용한 문법이다.
+    //언리얼 엔지에는 없다. 
+    //부럽지? -> C++에는 없다
 
     //Reflection X-Ray, 런타임 내에 어떤 클래스의 모든것을 뜯어볼 수 있게 한다.
     partial class Program
@@ -19,6 +22,7 @@ namespace Reflection
         }
 
         //Attribute  ---> 컴퓨터가 런타임에 알 수 있게하는 주석
+        
 
         public class Important : System.Attribute
         {
@@ -58,4 +62,5 @@ namespace Reflection
             }
         }
     }
+    
 }
