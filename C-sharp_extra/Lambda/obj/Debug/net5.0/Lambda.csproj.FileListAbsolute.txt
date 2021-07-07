@@ -13,3 +13,4 @@ C:\Users\한종훈\Dropbox\프로그래밍\인프런\C-sharp_extra\C-sharp_extra
 C:\Users\한종훈\Dropbox\프로그래밍\인프런\C-sharp_extra\C-sharp_extra\Lambda\obj\Debug\net5.0\ref\Lambda.dll
 C:\Users\한종훈\Dropbox\프로그래밍\인프런\C-sharp_extra\C-sharp_extra\Lambda\obj\Debug\net5.0\Lambda.pdb
 C:\Users\한종훈\Dropbox\프로그래밍\인프런\C-sharp_extra\C-sharp_extra\Lambda\obj\Debug\net5.0\Lambda.genruntimeconfig.cache
+C:\Users\한종훈\Dropbox\프로그래밍\인프런\C-sharp_extra\C-sharp_extra\Lambda\obj\Debug\net5.0\Lambda.csproj.AssemblyReference.cache
