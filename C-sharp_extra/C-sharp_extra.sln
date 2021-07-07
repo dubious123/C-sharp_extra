@@ -17,6 +17,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Lambda", "Lambda\Lambda.csp
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exception", "Exception\Exception.csproj", "{A6E8D3A8-C76D-436D-BB34-E4DFF789EA6C}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Reflection", "Reflection\Reflection.csproj", "{91196D3D-E0B3-4D1A-878B-A388C90300ED}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -51,6 +53,10 @@ Global
 		{A6E8D3A8-C76D-436D-BB34-E4DFF789EA6C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A6E8D3A8-C76D-436D-BB34-E4DFF789EA6C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A6E8D3A8-C76D-436D-BB34-E4DFF789EA6C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{91196D3D-E0B3-4D1A-878B-A388C90300ED}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{91196D3D-E0B3-4D1A-878B-A388C90300ED}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{91196D3D-E0B3-4D1A-878B-A388C90300ED}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{91196D3D-E0B3-4D1A-878B-A388C90300ED}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
