@@ -93,6 +93,20 @@ namespace Delegate
 
             clicked += TestDelegate2;
             ButtonPressed(clicked);
+
+
+
+
+
+
+
+
+
+            //delegate의 치명적 단점
+            clicked();
+            //위처럼 개나소다 다 접근 가능
+            //예를들어 위 clicked()는 buttonclicked()안에서만 작동해야 하는데 그 밖에서도 작동하게 됨
+            // 그 해결책이 바로 event
         }
     }
 }
